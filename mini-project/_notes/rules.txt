@@ -1,0 +1,21 @@
+Dont apply margin ans padding on left and right
+
+- if you want to give margin without any rules, then create new div inside col div . Then apply any rules.
+
+<div class="col-md-4">
+<div class="test">
+
+</div>
+
+</div>
+
+
+p.top
+
+<p class="top"></p>
+
+ p .top
+
+ <p>
+ <span class="top"><span>
+ </p>

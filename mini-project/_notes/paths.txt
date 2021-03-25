@@ -1,0 +1,16 @@
+./          current  folder
+../         parent folder of current folder
+
+
+===============================================
+
+About us
+
+
+section  about-us
+    .container
+        h1
+        p 
+        .row> .col-md-6 +  .col-md-6
+        .row> .col-md-6 +  .col-md-6
+        .row> .col-md-6 +  .col-md-6

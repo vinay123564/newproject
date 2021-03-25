@@ -1,0 +1,392 @@
+li{
+    display: inline-block;
+     
+}
+#navbar #color{
+    color: #004289;
+}
+#img{
+    max-height: 26px;
+    margin-left: 97px;
+}
+
+
+
+#banner{
+     background-color: yellow; 
+     background-image: url("../img/1.png");
+    min-height:400px;
+   
+
+    padding-top: 100px;
+    padding-bottom: 15px;
+
+}
+
+#banner h1{
+    color:#fff;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+#banner h1 span{
+    color:yellow;
+    text-decoration: underline;
+}
+#about-us{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+#about-us .description{
+   padding-bottom:60px;
+   padding-top:20px;
+    width:45%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 15px;
+}
+#about-us .first-row .paragraph {
+font-size:18px;
+font-weight: 500;
+
+}
+
+#about-us .first-row  h4{
+    padding-top: 15px;
+    font-size:18px;
+    font-weight:700;
+}
+#about-us .second-row{
+    margin-top:55px;
+}
+#about-us .second-row h4{
+    font-size:25px;
+    font-weight: 600;
+  
+}
+#about-us .second-row p{
+    padding-top:20px;
+    font-size:16.5px;
+    font-weight: 100;
+    margin-bottom:0px;
+}
+#about-us .mycontainer{
+    width:95%;
+    margin-right:auto;
+    margin-left: auto;
+}
+
+/*#about-us #about h1{
+    padding-top:25px;
+    padding-bottom:15px;
+    font-weight:500px;
+    font-size:36px;
+    text-align:center;
+  
+}
+
+#about-us{
+    height:1600px;
+}
+
+
+
+#about-us p{
+    font-weight:100px;
+    font-size:18px;
+    color: #556877;
+}
+
+#about-us #para p{
+    font-weight:100px;
+    font-size:17px;
+   
+}
+
+#about-us.card h4{
+    font-weight:800px;
+    padding-top:17px;
+    font-size:18px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+#about-us #pixel{
+    margin-top:50px;
+    padding-left:15px;
+    
+}
+
+#about-us #pixel h4{
+    font-size:25px;
+    font-weight:bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+#about-us #range{
+margin-top:60px;
+padding-left:15px;
+}
+
+#about-us #range h4{
+    font-size:30px;
+    font-weight:bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+#about-us .card .icon{
+    display: inline-block;
+    background: white;
+    border:1px solid #007bff;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+#about-us .card .icon i{
+    font-size: 30px;
+    color: #007bff;
+
+}
+
+#about-us .card .content{
+    background: white;
+    display: inline-block;
+    width:60%;
+    padding-left: 15px;;
+}
+
+#about-us .card .content h4{
+    padding-top: 0;
+    margin-top: 0;
+} */ 
+
+#service{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #ecf5ff;
+}
+#service .mycontainer p{
+padding-top: 20px;
+padding-bottom: 30px;
+}
+
+#service .mycontainer{
+    width:85%;
+    margin-left:auto;
+    margin-right: auto;
+}
+#service .title h1{
+    font-size:20px;
+   margin-top: 0px;
+    margin-bottom:0px;
+}
+#service .title{
+    background-color: white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius: 15px;
+}
+#service .title p{
+    margin-bottom:0px;
+}
+#service .title:hover h1{
+    color:red;
+}
+#choose{
+    background: #004a99;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color:white;
+}
+#choose h1{
+    margin-top:0px;
+    margin-bottom: 0px;
+    font-weight:550 ;
+}
+#choose .description{
+    padding-top: 30px;
+    padding-bottom: 80px;
+    margin-bottom: 0px;
+}
+#choose .card{
+     background: #00458f;
+     border-color: #00458f;
+     padding:25px;
+     border-radius: 15px;
+}
+#choose h2{
+    font-size: 23px;
+    font-weight: 850;
+}
+#choose .card #icon{
+    font-size: 48px;
+}
+#choose .card p{
+    font-size: 16px;
+    color: #cce5ff;
+}
+#choose .card:hover{
+    background: #003b7a;
+    border-color: #003b7a;
+}
+#choose .count-number{
+    margin-top:70px;
+    color: #cce5ff;
+}
+#choose .count-number h1{
+    color:white;
+    font-size:50px;
+}
+
+#testimonials{
+padding-top:50px;
+padding-bottom:80px;
+background-color:#ecf5ff
+
+}
+ #testimonials img{
+     width:130px;
+    
+
+     
+ }
+ #testimonials .title{
+     margin-bottom:30px;
+ }
+ #testimonials ol{
+top: 198px;
+ }
+ #testimonials h3{
+    
+     font-size: 19px;
+     font-weight: bold;
+     color: black;
+     
+ }
+ #testimonials .description{
+    margin: 0 0 10px;     
+    font-size: 15px;   
+      width: 75%;
+ }
+ #testimonials h4{
+font-size:14px;
+color:gray;
+ }
+#team{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#team .description{
+    
+    font-size:15px;
+    font-weight: 500;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:20px;
+    padding-bottom:47px;
+    color: #556877;
+   
+}
+#team img{
+    width:100%;
+    padding-bottom:20px;
+}
+#team .title{
+    color: #283d50;
+    
+}
+
+
+#our-client{
+    padding-top:50px;
+    padding-bottom: 20px;
+    background: #ecf5ff;
+}
+#our-client .description{
+    padding-top:25px;
+    padding-bottom: 40px;
+    font-size:15px;
+    font-weight: 500;
+    width:50%;
+    color: #556877;
+    margin-right: auto;
+    margin-left: auto;
+}
+#our-client .icon img{
+    width:150px;
+    margin-top:43px
+}
+#our-client .icon{
+    
+    background-color:white;
+    height:110px;
+    
+}
+#our-client .card{
+    padding:0px;
+    
+}
+
+#contact-us{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+#contact-us i{
+    color:#00d9ff;
+     font-size:30px;
+     margin:20px;
+}
+#contact-us span{
+    font-size:15px;
+    color:black
+}
+#contact-us .p-d{
+    margin-top:30px;
+
+}
+#contact-us button{
+    
+    background-color:#007bff;
+    height:35px;
+    width:150px;
+    border-radius:20px;
+    color:white;
+    border:none;
+    margin-top:30px;
+    margin-left:10px;
+    
+}
+#banner .get-started {
+    background-color:#007bff;
+    height:45px;
+    width:150px;
+    border-radius:20px;
+    color:white;
+    border:0px;
+    margin-left:12px;
+    font-size:15px;
+    font-weight:bold;
+}
+#banner .get-started:hover {
+     background: none;
+        border-color: #fff;
+        border: 2px solid #007bff;
+        border-color:white;
+    }
+#banner .our-services{
+ color:white;
+    height:45px;
+    width:150px;
+    border-radius:20px;
+    font-size:15px;
+    font-weight:bold;
+    background: none;
+    border:2px solid white;
+    margin:14px;
+}
+
+#banner .our-services:hover {
+    background-color: #007bff;
+}
